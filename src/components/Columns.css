@@ -1,0 +1,14 @@
+.Columns .Panel__in{
+    display: flex;
+    flex-direction: column;
+}
+.Columns .Gallery__in{
+    flex-grow: 1;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color:#01a3a4;
+}
+.Columns .Gallery__in .Gallery__viewport{
+    flex-grow: 1;
+}

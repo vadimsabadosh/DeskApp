@@ -1,0 +1,4 @@
+.CardGrid--android, .CardGrid--ios{
+    padding-left: 5px;
+    padding-right: 5px;
+}

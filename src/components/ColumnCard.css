@@ -1,0 +1,15 @@
+.ColumnCard-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.btn-card{
+    padding: 0;
+    background-color: none;
+}
+.Button--sz-m .Button__before{
+    margin-left: 0;
+}
+.Button--lvl-tertiary{
+    color: orangered;
+}
